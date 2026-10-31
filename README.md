@@ -8,8 +8,9 @@
 ---
 
 ## 🌐 Teste a Aplicação Online (Live Demo)
-Você pode testar e interagir com o simulador deste projeto diretamente pelo navegador:  
-👉 **[Clique aqui para abrir o Simulador](https://ais-pre-a47xiegaslvzhmc4ksl7dt-51848503360.us-west2.run.app)**
+Você pode testar a calculadora em tempo real diretamente pelo seu navegador:  
+- ⚡ **[Clique aqui para abrir o Simulador Interativo de Terminal](https://ais-pre-a47xiegaslvzhmc4ksl7dt-51848503360.us-west2.run.app/?tab=simulator)**
+- 📖 **[Clique aqui para ver o Código Python e Explicações](https://ais-pre-a47xiegaslvzhmc4ksl7dt-51848503360.us-west2.run.app/?tab=code)**
 
 ---
 
